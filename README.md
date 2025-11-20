@@ -35,7 +35,7 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smauricioj&theme=github_dark&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smauricioj&theme=github-dark-dimmed&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ## 🎵 Spotify - Tocando Recentemente
