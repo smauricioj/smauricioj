@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 ## 🎓 Sobre mim
 
 Apaixonado por **ensino de programação** e **tecnologia**, atuo como professor no IFSC (Instituto Federal de Santa Catarina), onde leciono disciplinas de Programação Orientada a Objetos e Pensamento Computacional e Algoritmos.
@@ -25,44 +27,26 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 
 ## 🎯 Áreas de Interesse
 
+- 💡 **Metodologias de Ensino** - Buscando formas melhores de ensinar código
+- 🧠 **Machine Learning** - Explorando técnicas sofisticadas de análise de dados
 - 🎮 **Gamificação Educacional** - Criando experiências de aprendizado imersivas
-- 🧠 **Machine Learning** - Explorando Q-Learning, Algoritmos Genéticos e Árvores de Decisão
-- 📚 **Programação Orientada a Objetos** - Tornando conceitos abstratos tangíveis
-- 🎨 **Design Patterns** - Boas práticas e arquitetura de software
-- 💡 **Metodologias de Ensino** - Sempre buscando formas melhores de ensinar código
-
-## 🚀 Projetos em Destaque
-
-### 🎮 [Java of Empires](https://github.com/smauricioj/java-of-empires)
-Sistema gamificado para ensino de requisitos de software - transformando POO em uma aventura épica!
-
-### 🤖 Estudos em Machine Learning
-- **[Q-Learning](https://github.com/smauricioj/ML-QLearning)** - Aprendizado por reforço
-- **[Algoritmos Genéticos](https://github.com/smauricioj/ML-AlgoritmoGenetico)** - Otimização evolutiva
-- **[Árvores de Decisão](https://github.com/smauricioj/ML-ArvoresDecisao)** - Classificação inteligente
-
-### 📐 [Design Patterns em Python](https://github.com/smauricioj/design-patterns)
-Implementações práticas de padrões de projeto essenciais
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smauricioj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=smauricioj&theme=tokyonight&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smauricioj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 🎓 Ensino no IFSC
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=smauricioj&theme=tokyonight&hide_border=true"/>
+</div>
 
-Materiais e recursos que desenvolvo para minhas disciplinas:
+## 🎵 Spotify - Tocando Recentemente
 
-- 📊 **[Slides: Associações em POO](https://github.com/smauricioj/poo-slides-associacoes)** - Material didático interativo
-- 🏗️ **[Template Gradle Padrão](https://github.com/smauricioj/poo-projeto-gradle-padrao)** - Starter kit para projetos Java
-- 🖥️ **[Template Frontend](https://github.com/smauricioj/fe1-template)** - Base para desenvolvimento web
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12149815583" alt="Spotify recently played"/>
+</div>
 
 ## 📫 Vamos Conectar?
 
