@@ -1,31 +1,8 @@
-# Olá! 👋 Eu sou Maurício
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=smauricioj&color=blueviolet&style=flat-square)
-  
-</div>
-
 ## 🎓 Sobre mim
 
-Apaixonado por **ensino de programação** e **tecnologia**, atuo como professor no IFSC (Instituto Federal de Santa Catarina), onde leciono disciplinas de Programação Orientada a Objetos e Desenvolvimento Frontend.
+Apaixonado por **ensino de programação** e **tecnologia**, atuo como professor no IFSC (Instituto Federal de Santa Catarina), onde leciono disciplinas de Programação Orientada a Objetos e Pensamento Computacional e Algoritmos.
 
 Acredito no poder da **gamificação** e de métodos inovadores para tornar o aprendizado de programação mais engajante e efetivo.
-
-```java
-public class Mauricio {
-    private String[] papeis = {"Professor", "Desenvolvedor", "Eterno Estudante"};
-    private String paixao = "Transformar conceitos complexos em aprendizado divertido";
-    
-    public void missao() {
-        while (true) {
-            ensinar();
-            aprender();
-            desenvolver();
-        }
-    }
-}
-```
 
 ## 🛠️ Tech Stack
 
@@ -75,7 +52,7 @@ Implementações práticas de padrões de projeto essenciais
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smauricioj&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=smauricioj&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -87,18 +64,11 @@ Materiais e recursos que desenvolvo para minhas disciplinas:
 - 🏗️ **[Template Gradle Padrão](https://github.com/smauricioj/poo-projeto-gradle-padrao)** - Starter kit para projetos Java
 - 🖥️ **[Template Frontend](https://github.com/smauricioj/fe1-template)** - Base para desenvolvimento web
 
-## 💭 Filosofia
-
-> "O melhor código não é o mais complexo, mas aquele que resolve o problema de forma elegante e é compreensível por outros desenvolvedores."
-
-> "Ensinar programação não é apenas passar sintaxe, é inspirar a lógica computacional e o pensamento criativo."
-
 ## 📫 Vamos Conectar?
 
 - 🎓 **IFSC Campus São José** - Engenharia de Telecomunicações & ADS
-- 💼 **LinkedIn**: [Conecte-se comigo!](https://linkedin.com/in/seu-perfil) <!-- Adicione seu LinkedIn -->
-- 📧 **Email**: seu.email@ifsc.edu.br <!-- Adicione seu email -->
-- 🌐 **Site/Blog**: [Seu site](https://seusite.com) <!-- Se tiver -->
+- 💼 **LinkedIn**: [Conecte-se comigo!]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/sergio-prolo/)) <!-- Adicione seu LinkedIn -->
+- 📧 **Email**: sergio.prolo@ifsc.edu.br <!-- Adicione seu email -->
 
 ---
 
