@@ -20,10 +20,6 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/7580183?s=200&v=4"></code>
 
 ## 🎯 Áreas de Interesse
 
@@ -34,12 +30,12 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smauricioj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smauricioj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smauricioj&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=smauricioj&theme=github_dark&hide_border=true"/>
 </div>
 
 ## 🎵 Spotify - Tocando Recentemente
@@ -51,7 +47,7 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 ## 📫 Vamos Conectar?
 
 - 🎓 **IFSC Campus São José** - Engenharia de Telecomunicações & ADS
-- 💼 **LinkedIn**: [Conecte-se comigo!]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/sergio-prolo/)) <!-- Adicione seu LinkedIn -->
+- 💼 **LinkedIn**: [Conecte-se comigo!](https://www.linkedin.com/in/sergio-prolo/) <!-- Adicione seu LinkedIn -->
 - 📧 **Email**: sergio.prolo@ifsc.edu.br <!-- Adicione seu email -->
 
 ---
@@ -59,8 +55,6 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 <div align="center">
   
   ### ⭐ "A melhor maneira de prever o futuro é inventá-lo" - Alan Kay
-  
-  ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
   
   **Obrigado pela visita!** 🚀
   
