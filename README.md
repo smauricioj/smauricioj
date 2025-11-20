@@ -54,7 +54,7 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 
 <div align="center">
   
-  ### ⭐ "A melhor maneira de prever o futuro é inventá-lo" - Alan Kay
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   **Obrigado pela visita!** 🚀
   
