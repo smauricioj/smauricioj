@@ -34,10 +34,6 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smauricioj&theme=github-dark-dimmed&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" /></a>
-</div>
-
 ## 🎵 Spotify - Tocando Recentemente
 
 <div align="center">
@@ -47,7 +43,6 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
 ## 📫 Vamos Conectar?
 
 - 🎓 **IFSC Campus São José** - Engenharia de Telecomunicações & ADS
-- 💼 **LinkedIn**: [Conecte-se comigo!](https://www.linkedin.com/in/sergio-prolo/) <!-- Adicione seu LinkedIn -->
 - 📧 **Email**: sergio.prolo@ifsc.edu.br <!-- Adicione seu email -->
 
 ---
