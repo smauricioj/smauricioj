@@ -34,16 +34,10 @@ Acredito no poder da **gamificação** e de métodos inovadores para tornar o ap
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smauricioj&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-## 🎵 Spotify - Tocando Recentemente
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12149815583" alt="Spotify recently played"/>
-</div>
-
 ## 📫 Vamos Conectar?
 
 - 🎓 **IFSC Campus São José** - Engenharia de Telecomunicações & ADS
-- 📧 **Email**: sergio.prolo@ifsc.edu.br <!-- Adicione seu email -->
+- 📧 **Email**: sergio.prolo@ifsc.edu.br 
 
 ---
 
